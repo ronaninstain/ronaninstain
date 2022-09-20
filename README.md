@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ronaninstain&style=flat-square)
 
 Contact me
-[LinkedIn](https://www.linkedin.com/in/shahfoyez/) || [Email](shoivehossain100@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/ronaninstain/) || [Email](shoivehossain100@gmail.com) 
 
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=ronaninstain&show_icons=true&theme=radical)
